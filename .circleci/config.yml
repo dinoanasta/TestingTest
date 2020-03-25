@@ -15,5 +15,3 @@ workflows:
     build-and-test:
       jobs:
         - build-and-test
-
-COVERALLS_REPO_TOKEN=asdfasdf bundle exec rspec spec
