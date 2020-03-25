@@ -1,0 +1,14 @@
+{
+  "name": "testingtest",
+  "version": "1.0.0",
+  "description": "testing tutorial",
+  "main": "add.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dino Anastasopoulos",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
